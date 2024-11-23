@@ -100,6 +100,7 @@ All dependencies are specified in requirements.txt.
 ### Plotting Transactions
 
 - Visualize income and expenses over time with an interactive line plot.
+![Capture](https://github.com/user-attachments/assets/6f11ff61-1c98-4b76-888c-f984f8ed921f)
 
 ### Example Usage
 
